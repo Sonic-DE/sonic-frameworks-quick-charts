@@ -6,3 +6,4 @@
 .clangd
 /cmake-build*
 .cache
+.ccls-cache
